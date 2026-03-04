@@ -57,5 +57,4 @@ Pinpoints specific top-selling products using nlargest().
 
 #### Final Summary:
 
-### Married women age group 26-35 yrs from U.P,Maharastra and Karnataka working in IT,Healthcare and Aviation 
-### are more likely buy products from Food,Clothing and Electronics category.
+### Married women age group 26-35 yrs from U.P,Maharastra and Karnataka working in IT,Healthcare and Aviation are more likely buy products from Food,Clothing and Electronics category.
