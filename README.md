@@ -28,7 +28,9 @@ Inspecting Data Types and Missing Values: Uses df.info() to understand data type
 ## Data Cleaning
 
 Handling Missing Data and Unnecessary Columns:Demonstrates how to drop columns with all null values and remove rows with missing data using df.drop() and df.dropna().
+
 Data Type Conversion: Explains how to convert the 'Amount' column from float to integer type using astype(int).
+
 Renaming Columns and Descriptive Statistics: Shows how to rename columns using df.rename() and how to generate descriptive statistics for numerical columns using df.describe().
 
 ## Exploratory Data Analysis (EDA)
