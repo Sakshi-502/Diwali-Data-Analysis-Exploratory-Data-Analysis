@@ -37,7 +37,8 @@ Renaming Columns and Descriptive Statistics: Shows how to rename columns using d
 
 Gender Analysis : Visualizes the distribution of buyers by gender and analyzes purchasing power, concluding that females are the primary buyers with higher purchasing power.
 
-Age Group Analysis: Examines purchasing behavior across different age groups, identifying the 26-35 age group as the most active buyers, particularly females.
+## Age Group Analysis:
+Examines purchasing behavior across different age groups, identifying the 26-35 age group as the most active buyers, particularly females.
 
 State-wise Analysis: Analyzes sales distribution across states, highlighting Uttar Pradesh, Maharashtra, and Karnataka as top-performing states.
 
