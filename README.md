@@ -40,17 +40,22 @@ Gender Analysis : Visualizes the distribution of buyers by gender and analyzes p
 ####  Age Group Analysis:
 Examines purchasing behavior across different age groups, identifying the 26-35 age group as the most active buyers, particularly females.
 
-State-wise Analysis: Analyzes sales distribution across states, highlighting Uttar Pradesh, Maharashtra, and Karnataka as top-performing states.
+#### State-wise Analysis:
+Analyzes sales distribution across states, highlighting Uttar Pradesh, Maharashtra, and Karnataka as top-performing states.
 
-Marital Status Analysis: Investigates purchasing patterns based on marital status, revealing that married women are the highest spenders.
+#### Marital Status Analysis: 
+Investigates purchasing patterns based on marital status, revealing that married women are the highest spenders.
 
-Occupation Analysis: Explores purchasing behavior by occupation, indicating that individuals in IT, healthcare, and aviation sectors are significant contributors to sales.
+#### Occupation Analysis: 
+Explores purchasing behavior by occupation, indicating that individuals in IT, healthcare, and aviation sectors are significant contributors to sales.
 
-Product Category Analysis: Identifies the top-selling product categories as Food, Clothing, and Electronics.
+#### Product Category Analysis:
+Identifies the top-selling product categories as Food, Clothing, and Electronics.
 
-Top Selling Products: Pinpoints specific top-selling products using nlargest().
+#### Top Selling Products:
+Pinpoints specific top-selling products using nlargest().
 
 #### Final Summary:
 
-Married women age group 26-35 yrs from U.P,Maharastra and Karnataka working in IT,Healthcare and Aviation 
-are more likely buy products from Food,Clothing and Electronics category.
+### Married women age group 26-35 yrs from U.P,Maharastra and Karnataka working in IT,Healthcare and Aviation 
+### are more likely buy products from Food,Clothing and Electronics category.
