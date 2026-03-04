@@ -25,27 +25,27 @@ Importing Libraries:It Explains how to import essential Python libraries like Nu
 Loading Data: Shows how to load the CSV data into a Pandas DataFrame and check its dimensions using df.shape.
 Inspecting Data Types and Missing Values: Uses df.info() to understand data types and identify missing values, and df.isnull().sum() to count nulls.
 
-Data Cleaning
+## Data Cleaning
 
 Handling Missing Data and Unnecessary Columns:Demonstrates how to drop columns with all null values and remove rows with missing data using df.drop() and df.dropna().
 Data Type Conversion: Explains how to convert the 'Amount' column from float to integer type using astype(int).
 Renaming Columns and Descriptive Statistics: Shows how to rename columns using df.rename() and how to generate descriptive statistics for numerical columns using df.describe().
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
-Gender Analysis : Visualizes the distribution of buyers by gender and analyzes purchasing power, concluding that females are the primary buyers with higher purchasing power.
+## Gender Analysis : Visualizes the distribution of buyers by gender and analyzes purchasing power, concluding that females are the primary buyers with higher purchasing power.
 
-Age Group Analysis: Examines purchasing behavior across different age groups, identifying the 26-35 age group as the most active buyers, particularly females.
+## Age Group Analysis: Examines purchasing behavior across different age groups, identifying the 26-35 age group as the most active buyers, particularly females.
 
-State-wise Analysis: Analyzes sales distribution across states, highlighting Uttar Pradesh, Maharashtra, and Karnataka as top-performing states.
+## State-wise Analysis: Analyzes sales distribution across states, highlighting Uttar Pradesh, Maharashtra, and Karnataka as top-performing states.
 
-Marital Status Analysis: Investigates purchasing patterns based on marital status, revealing that married women are the highest spenders.
+## Marital Status Analysis: Investigates purchasing patterns based on marital status, revealing that married women are the highest spenders.
 
-Occupation Analysis: Explores purchasing behavior by occupation, indicating that individuals in IT, healthcare, and aviation sectors are significant contributors to sales.
+## Occupation Analysis: Explores purchasing behavior by occupation, indicating that individuals in IT, healthcare, and aviation sectors are significant contributors to sales.
 
-Product Category Analysis: Identifies the top-selling product categories as Food, Clothing, and Electronics.
+## Product Category Analysis: Identifies the top-selling product categories as Food, Clothing, and Electronics.
 
-Top Selling Products: Pinpoints specific top-selling products using nlargest().
+## Top Selling Products: Pinpoints specific top-selling products using nlargest().
 
 #### Final Summary:
 
