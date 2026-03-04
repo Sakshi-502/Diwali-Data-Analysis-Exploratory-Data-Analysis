@@ -47,7 +47,7 @@ Product Category Analysis: Identifies the top-selling product categories as Food
 
 Top Selling Products: Pinpoints specific top-selling products using nlargest().
 
-## Final Summary: The project concludes with an overall summary of insights gained from the analysis that is:
+#### Final Summary:
 
 Married women age group 26-35 yrs from U.P,Maharastra and Karnataka working in IT,Healthcare and Aviation 
 are more likely buy products from Food,Clothing and Electronics category.
